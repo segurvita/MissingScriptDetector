@@ -1,0 +1,29 @@
+{
+  "name": "com.segur.missing-script-detector",
+  "description": "A Unity Editor tool to detect and remove missing script components from GameObjects.",
+  "version": "0.1.0",
+  "author": {
+    "name": "segur",
+    "email": "segur.opus@gmail.com",
+    "url": "https://github.com/segurvita"
+  },
+  "bugs": {
+    "url": "https://github.com/segurvita/MissingScriptDetector/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/segurvita/MissingScriptDetector.git"
+  },
+  "displayName": "Missing Script Detector",
+  "keywords": [
+    "Missing",
+    "Script",
+    "Detector",
+    "Editor",
+    "Tool",
+    "Cleanup"
+  ],
+  "license": "MIT",
+  "unity": "2022.3",
+  "unityRelease": "22f1"
+}
